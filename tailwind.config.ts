@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#80B500",
+      },
+      width: {
+        "100": "450px",
       },
     },
   },
